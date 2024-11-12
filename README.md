@@ -48,18 +48,18 @@ Install tkinter
 # Interface
 
 - Starting page
-<p>
-    <img src="Screenshots/image1.png" width="600"/>
+<p align="center">
+    <img src="Screenshots/image1.png" width="600" height="700"/>
 </p>
 
 - Selection page
-<p>
-    <img src="Screenshots/image2.png" width="600"/>
+<p align="center">
+    <img src="Screenshots/image2.png" width="600" height="700"/>
 </p>
 
 - Playing page
-<p>
-    <img src="Screenshots/image3.png" width="600"/>
+<p align="center">
+    <img src="Screenshots/image3.png" width="600" height="700"/>
 </p>
 
 Enjoy the classic game with a modern Python GUI twist!
